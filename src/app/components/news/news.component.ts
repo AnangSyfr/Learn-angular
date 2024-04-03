@@ -5,12 +5,13 @@ import {
     ViewChild,
 } from "@angular/core"
 import { MatButtonModule } from "@angular/material/button"
+import { DateFormatPipe } from "src/app/pipes/date-format.pipe"
 import { SwiperContainer } from "swiper/element"
 
 @Component({
     selector: "app-news",
     standalone: true,
-    imports: [MatButtonModule],
+    imports: [MatButtonModule, DateFormatPipe],
     templateUrl: "./news.component.html",
     styleUrl: "./news.component.css",
     schemas: [CUSTOM_ELEMENTS_SCHEMA],
