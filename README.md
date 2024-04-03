@@ -32,3 +32,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 3. [Photo by Patrick Robert Doyle on Unsplash](https://unsplash.com/photos/interior-building-OvXht_wi5Ew)
 4. [Quote icons created by Icon Mela - Flaticon](https://www.flaticon.com/free-icons/quote)
 5. [Photo by LinkedIn Sales Solutions on Unsplash](https://unsplash.com/@linkedinsalesnavigator?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+6. [Photo by Tirachard Kumtanom](https://www.pexels.com/photo/two-women-holding-pen-601170)
+7. [Photo by Laura Penwell](https://www.pexels.com/photo/photo-of-windmills-during-dawn-3608056/)
+7. [Photo by Andrea Piacquadio](https://www.pexels.com/photo/photo-of-a-woman-thinking-941555/)
