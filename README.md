@@ -41,3 +41,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 12. [Photo by Vince Fleming on Unsplash](https://unsplash.com/photos/person-holding-arrow-PhwLrQ40XG0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 13. [Photo by Abidemi Kusimo on Unsplash](https://unsplash.com/photos/person-holding-white-and-black-soccer-ball-vPkECXu8IM4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 14. [Photo by Brian Matangelo on Unsplash](https://unsplash.com/photos/person-in-swimming-goggles-in-swimming-pool--BUPaAMSOdE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+14. [Uk flag icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/uk-flag)
+14. [Indonesia icons created by verluk - Flaticon](https://www.flaticon.com/free-icons/indonesia)
