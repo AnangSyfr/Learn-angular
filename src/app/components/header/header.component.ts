@@ -1,12 +1,10 @@
-import { Component } from "@angular/core"
-import { MatButtonModule } from "@angular/material/button"
-import { MatIconModule } from "@angular/material/icon"
-import { MatToolbarModule } from "@angular/material/toolbar"
+import { Component } from "@angular/core";
+import { NgMaterialModule } from "src/app/shared/ng-material/ng-material.module";
 
 @Component({
     selector: "app-header",
     standalone: true,
-    imports: [MatToolbarModule, MatIconModule, MatButtonModule],
+    imports: [NgMaterialModule],
     templateUrl: "./header.component.html",
     styleUrl: "./header.component.css",
 })
